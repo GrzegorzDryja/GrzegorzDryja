@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @GrzegorzDryja
-- 👀 I’m interested in TypeScript.
-- 🌱 I’m currently proggress my tech skills
-- 💞️ And... I’m looking to collaborate on Angular project.
-- 📫 How to reach me? Feel free to mail me.
+👋 Hi, I’m @GrzegorzDryja, Frontend Developer interested in TypeScript.
 
 <!---
 GrzegorzDryja/GrzegorzDryja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
