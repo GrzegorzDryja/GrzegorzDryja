@@ -1,4 +1,4 @@
-👋 Hi, I’m @GrzegorzDryja, Frontend Developer interested in TypeScript.
+👋 Hi, I’m @GrzegorzDryja, Frontend Developer interested in TypeScript & love to solve problems with as small as possible external libralies & using just CSS.
 
 <!---
 GrzegorzDryja/GrzegorzDryja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
